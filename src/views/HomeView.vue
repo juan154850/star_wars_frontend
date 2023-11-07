@@ -1,7 +1,5 @@
 <template>
   <div>
-
-    <Header />
     <main class="container my-5">
       <div class="row">
         <div class="col-md-8 offset-md-2">
@@ -17,9 +15,7 @@
 </template>
 
 <script>
-
 export default {
   name: 'HomeView',
-
 }
 </script>
