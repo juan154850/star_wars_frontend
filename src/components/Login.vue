@@ -5,7 +5,7 @@
                 <div v-if="access_token" class="container flex">
                     <button class="btn btn-success m-2" @click="getCharacters">View Characters</button>
                     <button class="btn btn-success m-2" @click="getFilms">View Films</button>
-                    <button class="btn btn-success m-2" @click="getPlanets">Vies Planets</button>
+                    <button class="btn btn-success m-2" @click="getPlanets">View Planets</button>
                     <button class="btn btn-danger m-2" @click="logout">Logout</button>
                 </div>
                 <div v-if="characters.length > 0" class="row row-cols-1 g-4">

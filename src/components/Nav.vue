@@ -9,10 +9,10 @@
             <div class="collapse navbar-collapse" id="ftco-nav">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        <router-link to="/" class="nav-link">Inicio</router-link>
+                        <router-link to="/" class="nav-link">Home</router-link>
                     </li>
                     <li class="nav-item">
-                        <router-link to="/login" class="nav-link">Mi Cuenta</router-link>
+                        <router-link to="/login" class="nav-link">My Account</router-link>
                     </li>
                 </ul>
             </div>

@@ -3,10 +3,10 @@
     <main class="container my-5">
       <div class="row">
         <div class="col-md-8 offset-md-2">
-          <h1 class="text-center mb-5">Bienvenidos a Star Wars APP</h1>
+          <h1 class="text-center mb-5">Welcome to Star Wars APP</h1>
           <p class="lead text-center">
-            Un lugar donde podrás consultar información sobre los personajes de la saga Star Wars, su participación en
-            películas y cada uno de los planetas existentes en la saga.
+            A place where you can consult information about the characters of the Star Wars saga, their participation in
+            movies and each of the existing planets in the saga.
           </p>
         </div>
       </div>
