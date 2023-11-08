@@ -252,6 +252,8 @@ export default {
             this.access_token = null;
             this.refresh_token = null;
             this.characters = [];
+            this.films = [];
+            this.planets = [];
             this.email = '';
             this.password = '';
             this.showLoginForm();
